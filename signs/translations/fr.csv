@@ -3,3 +3,4 @@ Story Title,Titre de l'histoire
 System Health,Santé du système
 signs,panneaux
 "Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework written in Python and Javascript with MariaDB as the database. It is the framework which powers ERPNext, is pretty generic and can be used to build database driven apps","Frappe, prononcé fra-pay, est un framework Web complet, avec piles incluses, écrit en Python et Javascript avec MariaDB comme base de données. C'est le framework qui alimente ERPNext, il est assez générique et peut être utilisé pour créer des applications basées sur des bases de données."
+Check Html Translation,Vérifier la traduction HTML
