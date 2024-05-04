@@ -1,0 +1,57 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:story_title",
+ "creation": "2024-05-04 16:40:47.175433",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "author",
+  "story_title",
+  "long_text_gxso"
+ ],
+ "fields": [
+  {
+   "fieldname": "author",
+   "fieldtype": "Link",
+   "label": "Author",
+   "options": "User"
+  },
+  {
+   "fieldname": "long_text_gxso",
+   "fieldtype": "Long Text"
+  },
+  {
+   "fieldname": "story_title",
+   "fieldtype": "Data",
+   "label": "Story Title",
+   "options": "User",
+   "unique": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-05-04 17:10:11.067984",
+ "modified_by": "Administrator",
+ "module": "signs",
+ "name": "Story",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "creation",
+ "sort_order": "DESC",
+ "states": []
+}

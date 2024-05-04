@@ -1,0 +1,49 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"lJkRVNn0n1\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Check Html Translation\",\"col\":3}},{\"id\":\"751TE7gI2P\",\"type\":\"paragraph\",\"data\":{\"text\":\"&nbsp;\",\"col\":12}},{\"id\":\"IdQX1g12sd\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Story\",\"col\":3}}]",
+ "creation": "2024-05-04 16:53:51.703537",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "read-status",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Check translation",
+ "links": [],
+ "modified": "2024-05-04 20:30:31.746845",
+ "modified_by": "Administrator",
+ "module": "signs",
+ "name": "Check translation",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "All"
+  }
+ ],
+ "sequence_id": 28.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Story",
+   "link_to": "Story",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Check Html Translation",
+   "link_to": "html-translations",
+   "type": "Page"
+  }
+ ],
+ "title": "Check translation"
+}
